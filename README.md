@@ -2,6 +2,11 @@
 
 This repository is for the final project of the 2024 Fall semester course, **Deep Generative Modeling (DGM)**.
 
+## Summary
+- Step1: Independent Training of VAE and DDPM
+- Step2: Joint End-to-End Training of VAE and DDPM
+- Step3: step2 + adaptive Conditioning with Flow-Based Prior
+
 ## Dataset and Project Files
 
 The project results, including images and checkpoints, are available in the following Google Drive folder:  
@@ -10,6 +15,9 @@ The project results, including images and checkpoints, are available in the foll
 ## Contents
 - Code and outputs related to the course
 - Project development scripts and analysis materials
+
+### Reference
+[Git hub link](https://github.com/kpandey008/DiffuseVAE)
 
 ---
 
